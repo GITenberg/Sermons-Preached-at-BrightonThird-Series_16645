@@ -1,0 +1,32 @@
+_repo: Sermons-Preached-at-BrightonThird-Series_16645
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robertson, Frederick William
+    birthdate: 1816
+    deathdate: 1853
+    gutenberg_agent_id: '6843'
+    url: http://www.gutenberg.org/2009/agents/6843
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_William_Robertson
+description: 'Contents: Vol 1 - First series.-- Vol 2 - Second series.-- Vol 3 - Third
+  series.-- Vol 4 - Fourth series.'
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English -- 19th century'
+- !lcsh 'Church of England -- Sermons'
+- !lcc 'BX'
+title: 'Sermons Preached at Brighton
+
+  Third Series'
+url: http://www.gutenberg.org/ebooks/16645
