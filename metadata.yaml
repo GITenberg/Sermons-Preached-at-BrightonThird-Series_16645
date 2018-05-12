@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Frederick_William_Robertson
 description: 'Contents: Vol 1 - First series.-- Vol 2 - Second series.-- Vol 3 - Third
   series.-- Vol 4 - Fourth series.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16645#Sermons-Preached-at-BrightonThird-Series
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2005-09-04'
 gutenberg_type: Text
